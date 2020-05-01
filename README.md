@@ -1,7 +1,7 @@
 # AmazonS3WithPython
 Simple python API end-point to add watermark on the image and upload to AWS-S3 (Simple Storage Service).
 
-# How To run project ? 
+## How To run project ? 
 After cloning project to your local machine (make sure you have installed Python 3 on your machine),please run this commands in the root directory of project to set Amazon Credentials.
 
 #### Configure Amazon Credentials
