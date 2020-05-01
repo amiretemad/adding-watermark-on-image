@@ -19,7 +19,7 @@ class ImageUtil:
 
     # @Todo Amir Move this to another class
     def watermark(self, watermark_text, save_to):
-        font = ImageFont.truetype('font.ttf', 22)
+        font = ImageFont.truetype('fonts/font.ttf', 22)
 
         width, height = self.getHeightAndWidth()
 
