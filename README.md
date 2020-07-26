@@ -1,4 +1,4 @@
-# AmazonS3WithPython
+# API for Adding watermark on image 
 Simple python API end-point to add watermark on the image and upload to AWS-S3 (Simple Storage Service).
 
 ## How To run project ? 
